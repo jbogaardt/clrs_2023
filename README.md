@@ -22,4 +22,6 @@ References:
 * [Machine Learning and Traditional Methods Synergy in Non-Life Reserving](https://www.actuaries.org/IAA/Documents/ASTIN/ASTIN_MLTMS%20Report_SJAMAL.pdf)
 * [The Actuary and IBNR Techniques: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697256)
 * [Neural Networks Applied to Chain-Ladder Reserving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2966126)
-* [Reserving with Machine Learning: Innovations from Loyalty Programs to Insurance](https://www.pathlms.com/cas/courses/50925)
+* Reserving with Machine Learning: Innovations from Loyalty Programs to Insurance
+  - [Webinar](https://www.pathlms.com/cas/courses/50925)
+  - [Paper](https://www.casact.org/sites/default/files/database/forum_17sforum_01-llaguno_bardis_chin_gwilliam_hagerstrand_petzoldt.pdf)
