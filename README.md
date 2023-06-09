@@ -7,3 +7,11 @@ Learning Objectives:
 1.	Build a working knowledge of how to leverage open source tools to build a machine learning project
 2.	Understand how to set up a machine learning problem including dealing with common issues such as overfitting, data leakage and parameter tuning
 3.	Be conversant in deep learning architecture and its applicability to insurance.
+
+
+|Section|Time|Owner|
+|--------|----|----|
+|Intro| 15 minutes|LS+JB|
+|Scikit-learn| 50 minutes|JB|
+|Chainladder| 50 minutes|JB|
+|Deep Learning| 90 minutes|LS|
