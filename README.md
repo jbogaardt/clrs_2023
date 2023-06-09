@@ -24,6 +24,8 @@ References:
 * [Neural Networks Applied to Chain-Ladder Reserving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2966126)
 * [Report of the CAS Machine Learning Working Group](https://www.casact.org/sites/default/files/2022-03/01_Winter-Eforum-2022-ML_in_Insurance.pdf)
 * [CAS Monograph No. 6: A Machine-Learning Approach to Parameter Estimation](https://www.casact.org/monograph/cas-monograph-no-6)
+* [DeepTriangle: A Deep Learning Approach to Loss Reserving](https://www.mdpi.com/2227-9091/7/3/97)
+* [Ultimate Loss Reserve Forecasting Using Bidirectional LSTMs](https://eforum.casact.org/article/37953-ultimate-loss-reserve-forecasting-using-bidirectional-lstms)
 * Reserving with Machine Learning: Innovations from Loyalty Programs to Insurance
   - [Webinar](https://www.pathlms.com/cas/courses/50925)
   - [Paper](https://www.casact.org/sites/default/files/database/forum_17sforum_01-llaguno_bardis_chin_gwilliam_hagerstrand_petzoldt.pdf)
