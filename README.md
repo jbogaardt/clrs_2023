@@ -15,3 +15,10 @@ Learning Objectives:
 |Scikit-learn| 50 minutes|JB|
 |Chainladder| 50 minutes|JB|
 |Deep Learning| 90 minutes|LS|
+
+
+References:
+* [Individual Claim Development with Machine Learning](http://www.actuaries.org/astin/documents/astin_icdml_wp_report_final.pdf)
+* [Machine Learning and Traditional Methods Synergy in Non-Life Reserving](https://www.actuaries.org/IAA/Documents/ASTIN/ASTIN_MLTMS%20Report_SJAMAL.pdf)
+* [The Actuary and IBNR Techniques: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697256)
+* [Neural Networks Applied to Chain-Ladder Reserving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2966126)
