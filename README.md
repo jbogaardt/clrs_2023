@@ -28,6 +28,7 @@ References:
 * [CAS Monograph No. 6: A Machine-Learning Approach to Parameter Estimation](https://www.casact.org/monograph/cas-monograph-no-6)
 * [DeepTriangle: A Deep Learning Approach to Loss Reserving](https://www.mdpi.com/2227-9091/7/3/97)
 * [Ultimate Loss Reserve Forecasting Using Bidirectional LSTMs](https://eforum.casact.org/article/37953-ultimate-loss-reserve-forecasting-using-bidirectional-lstms)
+* [Individual Claim Development Models and Detailed Actuarial Reserves in Property‐Casualty Insurance](https://cognalysis.com/wp-content/uploads/2022/07/Individual-Claim-Development-Models-and-Detailed-Actuarial-Reserves-in-Property-Casualty-Insurance-2021-04-06-1.pdf)
 * Reserving with Machine Learning: Innovations from Loyalty Programs to Insurance
   - [Webinar](https://www.pathlms.com/cas/courses/50925)
   - [Paper](https://www.casact.org/sites/default/files/database/forum_17sforum_01-llaguno_bardis_chin_gwilliam_hagerstrand_petzoldt.pdf)
