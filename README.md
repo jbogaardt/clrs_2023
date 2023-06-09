@@ -21,6 +21,7 @@ References:
 * [Individual Claim Development with Machine Learning](http://www.actuaries.org/astin/documents/astin_icdml_wp_report_final.pdf)
 * [Individual Claims Reserving: Using Machine Learning Methods](https://core.ac.uk/download/pdf/335015272.pdf)
 * [Machine Learning and Traditional Methods Synergy in Non-Life Reserving](https://www.actuaries.org/IAA/Documents/ASTIN/ASTIN_MLTMS%20Report_SJAMAL.pdf)
+* [Claim Reserving: Classical versus Machine Learning Methods](https://macsphere.mcmaster.ca/bitstream/11375/26892/2/Cai_Pengfei_2021August_MSc.pdf)
 * [The Actuary and IBNR Techniques: A Machine Learning Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3697256)
 * [Neural Networks Applied to Chain-Ladder Reserving](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2966126)
 * [Report of the CAS Machine Learning Working Group](https://www.casact.org/sites/default/files/2022-03/01_Winter-Eforum-2022-ML_in_Insurance.pdf)
